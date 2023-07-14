@@ -7,7 +7,7 @@ This is a weather dashboard that uses an API from 'OpenWeather' to deliver weath
 N/A
 
 ## Usage
-Page Link
+https://travis3214.github.io/WeatherApp/
 
 ## License
 N/A
