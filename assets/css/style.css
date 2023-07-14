@@ -1,9 +1,3 @@
-.flex {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-
-} 
 header {
     background-image: linear-gradient(to right, rgb(0, 115, 255) , rgb(4, 0, 134));
     color: whitesmoke;
@@ -22,9 +16,4 @@ h2 {
 .cityName {
     padding: 5px;
     margin-bottom: 10px;
-}
-
-.sideBar {
-    display: flex;
-    flex-direction: column;
 }
