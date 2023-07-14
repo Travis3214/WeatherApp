@@ -1,0 +1,30 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+} 
+header {
+    background-image: linear-gradient(to right, rgb(0, 115, 255) , rgb(4, 0, 134));
+    color: whitesmoke;
+    padding: 15px;
+    
+}
+#title {
+    font-size: 50px;
+}
+
+h2 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.cityName {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.sideBar {
+    display: flex;
+    flex-direction: column;
+}

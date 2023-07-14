@@ -14,3 +14,4 @@
 // Function specifically for geolocation with lat and lon and use function above to make calls
 // Function to add event listener
 // Dont forget to link the script
+
