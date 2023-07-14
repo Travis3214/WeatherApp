@@ -4,7 +4,7 @@
 // search history array
 
 // Function to display search history
-// Loop over jistory array and cound down so the most recent search is at the top
+// Loop over history array and cound down so the most recent search is at the top
 // Function to update the search history in local storage
 // Function to get the seach history from the local storage
 // Function to display curretn weather data fromm the fetch request
@@ -14,4 +14,10 @@
 // Function specifically for geolocation with lat and lon and use function above to make calls
 // Function to add event listener
 // Dont forget to link the script
+
+const apiKey = "5c5462b61afe403ec7f8a8d33ac004fc";
+
+const baseUrl = "https://openweathermap.org/";
+
+const searchHistory = [];
 
